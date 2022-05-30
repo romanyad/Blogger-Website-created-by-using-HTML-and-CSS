@@ -1,2 +1,2 @@
-# Blogger-Website-created-by-using-HTML-and-CSS
-Blogger Website created by using HTML and CSS
+# Blooger_Website
+This is the complete blooger website create using html and css
